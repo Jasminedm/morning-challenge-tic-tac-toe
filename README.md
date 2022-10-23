@@ -1,12 +1,27 @@
-###📊 Tic Tac Toe
-#### This is a well made Tic-Tac-Toe game! https://jasminedm-tic-tac-toe.netlify.app/
-![This is a well made Tic-Tac-Toe game! https://jasminedm-tic-tac-toe.netlify.app/](https://i.imgur.com/rcRuWZm.jpg)
+# 📊 Morning Challenge: Tic-Tac-Toe
 
-This game allows for two players and tracks each players turn. Each square is programmed to show an X or O based on which players turn it is beginning with player 1 as X. Once a winning combination is reached, the winner of the game will be announced and the restart button will allow the users to play again!
-<hr>
-While designing this game I learned how to track turns by building  a counter. This was important in order for a game like this to be created!
+### Goal: Create a two player Tic-Tac-Toe game. The users should be able to click to place their X or O and if they win the program should mention their win in the DOM. Please make the game as OOP as possible.
 
-Skills:  JS / HTML / CSS
+### How to submit your code for review:
+
+- Fork and clone this repo
+- Create a new branch called answer
+- Checkout answer branch
+- Push to your fork
+- Issue a pull request
+- Your pull request description should contain the following:
+  - (1 to 5 no 3) I completed the challenge
+  - (1 to 5 no 3) I feel good about my code
+  - Anything specific on which you want feedback!
+
+Example:
+```
+I completed the challenge: 5
+I feel good about my code: 4
+I'm not sure if my constructors are setup cleanly...
+```
+
+
 
 
 
