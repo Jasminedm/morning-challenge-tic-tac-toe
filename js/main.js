@@ -85,3 +85,9 @@ let checkWhoWon = function () {
         }
     }
 }
+
+document.querySelector('#restart').addEventListener('click', restartSlot)
+
+function restartSlot(){
+    window.location.reload()
+}

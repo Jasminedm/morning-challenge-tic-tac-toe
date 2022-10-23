@@ -48,3 +48,12 @@ h1{
 h2{
     font-size: 100px;
 }
+.button{
+    text-align: center;
+}
+button{
+    background-color: rgb(115, 143, 243);
+}
+button:hover{
+    background-color: rgb(250, 249, 247);
+}
